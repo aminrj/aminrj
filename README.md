@@ -1,3 +1,5 @@
+![](https://github.com/aminrj/aminrj/images/banner1.jpeg)
+
 ### Hi there 👋, I'm Amine
 
 <!--
@@ -5,9 +7,11 @@
 
 Here are some ideas to get you started:
 -->
-- 👯 I’m looking to collaborate on amazing Open Source Projects
-
+- 👯 I’m looking to collaborate on amazing Open Source Projects, contact me if you are looking for contributions on any
+- 🔭 I’m currently working on a lots of cool stuff
+- 🌱 I’m currently learning many things
 - 💬 Ask me about anything [here](https://github.com/aminrj/aminrj/issues)
+<!-- - :mortar_board: oh, btw, I am a PhD in computer science :smile: -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
