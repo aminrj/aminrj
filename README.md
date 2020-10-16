@@ -1,4 +1,4 @@
-![](https://github.com/aminrj/aminrj/images/banner1.jpeg)
+![](images/banner1.jpg)
 
 ### Hi there 👋, I'm Amine
 
