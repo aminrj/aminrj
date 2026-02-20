@@ -1,32 +1,23 @@
 ![](images/banner1.jpg)
 
-### Hi there 👋, I'm Amine
+### Hi, I'm Amine Raji
 
-<!--
-**aminrj/aminrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI security consultant. I help engineering and security teams deploy LLM systems without creating new attack surfaces.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on a lots of cool stuff
-- 🌱 I’m currently learning many things
-- 💬 Ask me about anything [here](https://github.com/aminrj/aminrj/issues)
-<!-- - :mortar_board: oh, btw, I am a PhD in computer science :smile: -->
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in securing critical systems across regulated industries. More recently I've been working with enterprise clients on building and deploying LLM-based systems — model selection, RAG pipelines, agentic workflows, production infrastructure on Kubernetes. That combination puts me in an unusual position: I understand how these systems are built, and I understand how they're broken.
 
-**Languages and Tools:**  
+**What I focus on:**
+- Prompt injection & jailbreaks
+- Data leakage through model outputs
+- Agentic system risk & privilege escalation
+- Supply chain & model integrity
+- LLM security assessments & implementation consulting
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+**Where to find me:**
+- 🌐 [molntek.com](https://molntek.com) — AI security consulting
+- ✍️ [aminrj.com](https://aminrj.com) — writing and notes
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aminrj&show_icons=true&include_all_commits=true&theme=radical" alt="Amine's github stats" />
