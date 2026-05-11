@@ -12,11 +12,10 @@ More recently my work has centered on MCP and agentic AI: building lab-confirmed
 - Data leakage through model outputs
 - Agentic system risk & privilege escalation
 - Supply chain & model integrity
-- LLM security assessments & implementation consulting
+- Threat modeling for agentic AI deployments
 
 **Where to find me:**
-- 🌐 [molntek.com](https://molntek.com) — AI security consulting
-- ✍️ [aminrj.com](https://aminrj.com) — writing and notes
+- ✍️ [aminrj.com](https://aminrj.com) — research & writing
 
 ---
 
