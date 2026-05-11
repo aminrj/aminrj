@@ -2,9 +2,10 @@
 
 ### Hi, I'm Amine Raji
 
-AI security consultant. I help engineering and security teams deploy LLM systems without creating new attack surfaces.
+AI security researcher focused on how agentic AI systems create attack surfaces that traditional AppSec tooling cannot see. 
+My background is in securing critical systems across regulated industries: aerospace, banking, defense, and automotive. 
 
-My background is in securing critical systems across regulated industries. More recently I've been working with enterprise clients on building and deploying LLM-based systems — model selection, RAG pipelines, agentic workflows, production infrastructure on Kubernetes. That combination puts me in an unusual position: I understand how these systems are built, and I understand how they're broken.
+More recently my work has centered on MCP and agentic AI: building lab-confirmed attack chains, publishing threat models, and mapping what breaks in production. That combination puts me in an unusual position: I understand how these systems are built, and I understand how they're broken.
 
 **What I focus on:**
 - Prompt injection & jailbreaks
